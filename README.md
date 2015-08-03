@@ -1,4 +1,4 @@
-# Ruby on Rails : twitter like app 
+# Twitch : twitter like app 
 
 Rails version - 4.2.2
 Based on [*Ruby on Rails Tutorial:
